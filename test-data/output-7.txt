@@ -1,0 +1,3 @@
+SUCCESS # Initialize the ship.
+SUCCESS # The primary fires and still has one torpedo left.
+FAIL # The secondary fails; the primary must not be tried again.

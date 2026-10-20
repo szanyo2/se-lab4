@@ -1,0 +1,3 @@
+# T06: SINGLE does not retry the secondary store after a primary failure.
+GT4500,1,1,1,0
+TORPEDO,SINGLE

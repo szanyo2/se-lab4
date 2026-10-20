@@ -1,0 +1,2 @@
+SUCCESS # Initialize the ship.
+SUCCESS # The primary store succeeds; the secondary would fail.

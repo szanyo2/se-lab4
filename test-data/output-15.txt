@@ -1,0 +1,2 @@
+SUCCESS # Initialize the ship.
+FAIL # No torpedo is available in either store.

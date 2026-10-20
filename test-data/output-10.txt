@@ -1,0 +1,2 @@
+SUCCESS # Initialize the ship.
+SUCCESS # The primary succeeds even though the secondary fails.

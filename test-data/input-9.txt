@@ -1,0 +1,4 @@
+# T09: ALL fires both stores, leaving neither torpedo for the next command.
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,SINGLE
