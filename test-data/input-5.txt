@@ -1,0 +1,4 @@
+# T05: SINGLE uses the primary store when the secondary is next but empty.
+GT4500,2,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

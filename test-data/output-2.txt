@@ -1,0 +1,4 @@
+SUCCESS # Initialize the ship.
+SUCCESS # Fire the first torpedo.
+SUCCESS # Fire the second torpedo.
+FAIL # Both stores are now empty.

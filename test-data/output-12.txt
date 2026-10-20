@@ -1,0 +1,2 @@
+SUCCESS # Initialize the ship.
+FAIL # Neither store fires successfully.

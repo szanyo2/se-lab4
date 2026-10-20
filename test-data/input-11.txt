@@ -1,0 +1,3 @@
+# T11: ALL succeeds when only the secondary store fires successfully.
+GT4500,1,1,1,0
+TORPEDO,ALL

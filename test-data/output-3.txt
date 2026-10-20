@@ -1,0 +1,4 @@
+SUCCESS # Initialize the ship.
+SUCCESS # Primary store.
+FAIL # Secondary store.
+SUCCESS # Primary store again.

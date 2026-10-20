@@ -1,0 +1,4 @@
+# T07: SINGLE does not retry the primary store after a secondary failure.
+GT4500,2,0,1,1
+TORPEDO,SINGLE
+TORPEDO,SINGLE
